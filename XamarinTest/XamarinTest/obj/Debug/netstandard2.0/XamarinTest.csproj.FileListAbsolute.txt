@@ -1,0 +1,12 @@
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.deps.json
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.dll
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.pdb
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.csprojAssemblyReference.cache
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.csproj.CoreCompileInputs.cache
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.AssemblyInfoInputs.cache
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.AssemblyInfo.cs
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.dll
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\bin\Debug\XamarinTest.UITests.dll
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\bin\Debug\XamarinTest.UITests.pdb
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\bin\Debug\nunit.framework.dll
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\bin\Debug\nunit.framework.pdb
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\obj\Debug\XamarinTest.UITests.csprojAssemblyReference.cache
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\obj\Debug\XamarinTest.UITests.csproj.CoreCompileInputs.cache
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\obj\Debug\XamarinTest.UITests.csproj.CopyComplete
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\obj\Debug\XamarinTest.UITests.dll
+C:\Users\HTTPeak\Documents\Visual Studio 2017\Projects\XamarinTest\XamarinTest.UITests\obj\Debug\XamarinTest.UITests.pdb
